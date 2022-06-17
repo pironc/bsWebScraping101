@@ -20,6 +20,7 @@ pip install lxml
   
 ```
 brew install python
+chmod +x get-pip.py
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python3 get-pip.py
 pip install requests
