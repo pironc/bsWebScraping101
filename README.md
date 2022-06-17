@@ -25,8 +25,7 @@ python3 get-pip.py
 pip install requests
 pip install lxml
 ```
-  
-  
+
 Note : if the previous command is not working, consider using  
   
 > ln -s "$(brew --prefix)/bin/python"{3,}
