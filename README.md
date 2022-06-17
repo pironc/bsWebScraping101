@@ -1,18 +1,18 @@
-# bsWebScraping101
+### bsWebScraping101
 Web Scraping workshop for Epitech's HUB projects.
 
 BeautifulSoup will be used in order to complete this workshop.  
   
-# Setup  
+## Setup  
 Install BeautifulSoup4  
   
-Linux :  
+# Linux :  
   
 sudo apt install python  
 sudo apt install python3  
 pip install beautifulsoup4  
   
-MacOS :  
+# MacOS :  
   
 ```
 brew install python
