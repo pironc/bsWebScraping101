@@ -22,10 +22,6 @@ python3 get-pip.py
   
 Note : if the previous command is not working, consider using  
   
-```
-ln -s "$(brew --prefix)/bin/python"{3,}
-```
+> ln -s "$(brew --prefix)/bin/python"{3,}
   
-```
-pip install beautifulsoup4
-```
+> pip install beautifulsoup4
