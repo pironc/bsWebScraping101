@@ -23,8 +23,9 @@ brew install python
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python3 get-pip.py
 pip install requests
-pip install lxml  
+pip install lxml
 ```
+  
   
 Note : if the previous command is not working, consider using  
   
