@@ -9,9 +9,11 @@ Install BeautifulSoup4
 ### Linux :  
   
 ```
-sudo apt install python  
-sudo apt install python3  
-pip install beautifulsoup4  
+sudo apt install python
+sudo apt install python3
+pip install beautifulsoup4
+pip install requests
+pip install lxml
 ```
   
 ### MacOS :  
@@ -20,6 +22,8 @@ pip install beautifulsoup4
 brew install python
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python3 get-pip.py
+pip install requests
+pip install lxml
 ```
   
 Note : if the previous command is not working, consider using  
@@ -29,3 +33,7 @@ Note : if the previous command is not working, consider using
 ```
 pip install beautifulsoup4
 ```
+  
+### Windows :  
+  
+How dare you?
