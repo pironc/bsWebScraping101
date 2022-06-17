@@ -9,11 +9,8 @@ Install BeautifulSoup, Python and needed dependencies
 ### Linux :  
   
 ```
-sudo apt install python
-sudo apt install python3
-pip install beautifulsoup4
-pip install requests
-pip install lxml
+sudo apt install python python3
+pip install beautifulsoup4 requests lxml
 ```
   
 ### MacOS :  
@@ -23,8 +20,7 @@ brew install python
 chmod +x get-pip.py
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python3 get-pip.py
-pip install requests
-pip install lxml
+pip install requests lxml
 ```
 
 Note : if the previous command is not working, consider using  
