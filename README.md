@@ -8,9 +8,11 @@ Install BeautifulSoup4
   
 ### Linux :  
   
+```
 sudo apt install python  
 sudo apt install python3  
 pip install beautifulsoup4  
+```
   
 ### MacOS :  
   
