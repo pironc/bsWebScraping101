@@ -10,16 +10,17 @@ on the right of the item's icon (mostly shown as "Find 2 Epitech students and
 tell them to get back to work.")  
   
 Got it? Get set, ready...  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 this might be useful for you... https://www.crummy.com/software/BeautifulSoup/bs4/doc/
