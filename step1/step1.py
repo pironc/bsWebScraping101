@@ -10,4 +10,4 @@ response = requests.get(url)
 # Parse the html content
 
 # Print the string you found
-print("String found : {}".format(response.text))
+print("String found : {}".format(yourstring))
