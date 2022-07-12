@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 yourstring = "the string you found"
-url = "https://intra.epitech.eu/auth-7ed7544501d6a96dc54f0ba85297ba97b1f7c7b9/user/#!/netsoul"
+url = "https://intra.epitech.eu/yourauth"
 
 # Make a GET request to fetch the raw HTML content
 response = requests.get(url)
